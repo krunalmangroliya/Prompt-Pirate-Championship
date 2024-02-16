@@ -61,11 +61,11 @@ Please read the following instructions carefully before proceeding with the exam
 
 ### Round 3 (The Challenge Board) (30 min)
 
-[Question-1]()
+[Question-1](https://forms.gle/AQhkx6AnpKq6Ntig6)
 
-[Question-2]()
+[Question-2](https://forms.gle/deNzCzXgw4TpoRoS9)
 
-[Question-3]()
+[Question-3](https://forms.gle/wCp6ytt8c6xTSRN36)
 
 ---
 
