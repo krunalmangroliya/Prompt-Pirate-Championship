@@ -39,17 +39,17 @@ Please read the following instructions carefully before proceeding with the exam
 
 -------
 
-### Round 1 (The Warm-Up)  
+### Round 1 (The Warm-Up)  (20 min)
 
-[Question-1]()
+[Question-1](https://forms.gle/FrSH261ejHYQAPJv5)
 
-[Question-2]()
+[Question-2](https://forms.gle/fsZ6Mss7in5gyvmM7)
 
-[Question-3]()
+[Question-3](https://forms.gle/Y3Y6p2UxKvZNVgnM7)
   
 ---
 
-### Round 2 (The Creativity Spark)
+### Round 2 (The Creativity Spark) (25 min)
 
 [Question-1]()
 
@@ -59,7 +59,7 @@ Please read the following instructions carefully before proceeding with the exam
 
 ---
 
-### Round 3 (The Challenge Board)
+### Round 3 (The Challenge Board) (30 min)
 
 [Question-1]()
 
