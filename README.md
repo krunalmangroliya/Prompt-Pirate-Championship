@@ -41,31 +41,54 @@ Please read the following instructions carefully before proceeding with the exam
 
 ### Round 1 (The Warm-Up)  (20 min)
 
-[Question-1](https://forms.gle/FrSH261ejHYQAPJv5)
+[Question-1] 
 
-[Question-2](https://forms.gle/fsZ6Mss7in5gyvmM7)
+Explain the benefits of using fresh herbs in cooking.
 
-[Question-3](https://forms.gle/Y3Y6p2UxKvZNVgnM7)
+[Question-2] 
+
+What is the pH scale and what does it measure?
+
+[Question-3] 
+
+If all flowers are roses and some flowers fade quickly, can we say some roses fade quickly?  (The question should be included exactly word by word in your prompt and the answer include an explanation)
   
 ---
 
 ### Round 2 (The Creativity Spark) (25 min)
 
-[Question-1](https://forms.gle/3hCS8nhpKE4WKtFG6)
+[Question-1] 
 
-[Question-2](https://forms.gle/FwxaBYojtmJNAuZQ9)
+Write a story that leads to a surprising conclusion? Ensure that hints of the unexpected ending are strategically placed throughout the story.
 
-[Question-3](https://forms.gle/q6XEPn4y6uLkKhUf7)
+[Question-2] 
+
+I'm planning a week-long vacation, Where can I go?  (The question should be included exactly word by word in your prompt and the answer include an explanation)
+
+[Question-3] 
+
+Poonam's heart rate at 9 AM was 75 bpm and her blood pressure at 7 PM was 120/80. She died at 11 PM. Was she alive at noon?  (The question should be included exactly word by word in your prompt and the answer include an explanation)
 
 ---
 
 ### Round 3 (The Challenge Board) (30 min)
 
-[Question-1](https://forms.gle/AQhkx6AnpKq6Ntig6)
+[Question-1] 
 
-[Question-2](https://forms.gle/deNzCzXgw4TpoRoS9)
+Create a LinkedIn post to share your experience about this competition (it should not be greater than 1000 characters)
 
-[Question-3](https://forms.gle/wCp6ytt8c6xTSRN36)
+[Question-2] 
+
+In a country where everyone is identical, 100 people wait in line each day to buy raspberries at a controlled price. The government has decided to hand out free coffee to the people standing in line. The coffee costs the government $1 per cup, but the people in line value that coffee at only 75 cents per cup. What is the social cost of providing the coffee per day? (The question should be included exactly word by word in your prompt and the answer include an explanation)
+
+[Question-3] 
+
+Create a Prompt that will answer the following question. (e.g. https://prnt.sc/hFHmZBhM23we)
+* Prompt: 1 where is the letter p in the word psychology?
+* Prompt: 2 where is the letter s in the word bananas?
+* Prompt: 3 where is the letter r in the word blueberry?
+
+Prompts 1,2,3 should be exactly word by word.
 
 ---
 
